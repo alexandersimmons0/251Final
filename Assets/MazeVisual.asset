@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85392198cc1245a4498134f8db2f24c3, type: 3}
+  m_Name: MazeVisual
+  m_EditorClassIdentifier: 
+  deadEnd: {fileID: 4267275974079142180, guid: dbd48cf4e4abc4145abd6caed6471bdb, type: 3}
+  straight: {fileID: 2922751308400526561, guid: 23852c89af9af1d42a33ecc51ade0575, type: 3}
+  corner: {fileID: 4425251689558351182, guid: 4d12ef3ee88fb3b418a01b3de31f8f8b, type: 3}
+  tJunction: {fileID: 1536338394829321200, guid: e4a471dd5f3faec4f98300037ac35ccd, type: 3}
+  xJunction: {fileID: 1463604144929666968, guid: 93b241100cdd65e438ec90599cc8fda8, type: 3}
